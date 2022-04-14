@@ -1,4 +1,8 @@
 ### Hi there 👋
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=prkpro&show_icons=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=prkpro&theme=blue-green
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **prkpro/prkpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
